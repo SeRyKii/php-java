@@ -20,7 +20,7 @@
         "symfony/console": "*",
         "phpdocumentor/reflection-docblock": "^5.2",
         "brick/math": "*",
-        "nikic/php-parser": "^4.10"
+        "nikic/php-parser": "*"
     },
     "autoload": {
         "psr-4": {
