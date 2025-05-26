@@ -1,5 +1,5 @@
 {
-    "name": "php-java/php-java",
+    "name": "serykii/php-java",
     "description": "Implement JVM by PHP",
     "type": "library",
     "license": "MIT",
